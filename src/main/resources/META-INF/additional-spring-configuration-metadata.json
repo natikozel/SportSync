@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "afeka.demo.message",
+  "type": "java.lang.String",
+  "description": "Sample configuration value for application to read on initialization"
+}]}
