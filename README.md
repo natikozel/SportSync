@@ -55,7 +55,7 @@ accessing and utilizing the server's extensive API functionalities.
 
 1. Run Docker Desktop.
 2. Open your IDE and import the provided project as a Spring Initializer project.
-3. Navigate to `\src\main\java\demo\integrative` and run the Application file.
+3. Navigate to `\src\main\java\demo\` and run the Application file.
 4. Congratulations! You have successfully set up the server.
 
 ---
