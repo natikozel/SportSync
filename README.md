@@ -2,6 +2,10 @@
 
 ---
 
+## Live Demo
+**You can view the `Trainers client` Live On:** [Here](https://sportsync-production-trainers.vercel.app/)
+**You can view the `Trainees client` project Live On:** [Here](https://sportsync-production-trainees.vercel.app/)
+
 ## Overview
 
 This project is a **modern web application** designed to streamline interaction with a **reactive API** provided by a **
