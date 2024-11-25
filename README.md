@@ -2,10 +2,6 @@
 
 ---
 
-## Live Demo
-**You can view how the `Trainers client` integrates live On:** [Here](https://sportsync-production-trainers.vercel.app/)
-
-**You can view how the `Trainees client` integrates live On:** [Here](https://sportsync-production-trainees.vercel.app/)
 
 ## Overview
 
